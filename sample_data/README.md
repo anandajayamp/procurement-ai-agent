@@ -5,10 +5,10 @@ These files are fictional examples for development and demonstrations. Supplier 
 ## Files
 
 - `purchase_history.csv` — spreadsheet-compatible purchase history with two records.
-- `invoices/invoice_inv-2025-0042.pdf` and `invoices/invoice_inv-2024-0187.pdf` — fictional invoices corresponding to the purchase-history rows.
+- `invoices/invoice_inv-2025-0042.pdf` and `invoices/invoice_inv-2024-0187.pdf` — fictional text-based invoices corresponding to the purchase-history rows. The prototype extracts their text and compares selected fields against the CSV.
 
 ## Common record fields represented
 
-The CSV includes the product description and specifications, supplier, quantity, unit price, currency, tax, shipping, total, purchase date, warranty, and a source filename. The invoice PDFs repeat key transaction fields so a later document-extraction step can compare extracted values with structured history.
+The CSV includes the product description and specifications, supplier, quantity, unit price, currency, tax, shipping, total, purchase date, warranty, and a source filename. The invoice PDFs repeat key transaction fields so the prototype can compare extracted values with structured history.
 
 Prices are illustrative only. These files are intended to test reading, normalization, matching, source tracking, and calculation checks—not to recommend a supplier or estimate Indian market prices.
