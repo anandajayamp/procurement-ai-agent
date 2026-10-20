@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 916 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+(SAMPLE INVOICE - FICTIONAL DATA) Tj
+0 -28 Td
+(Supplier: BlueLotus Enterprise Supply) Tj
+0 -28 Td
+(Invoice number: INV-2024-0187) Tj
+0 -28 Td
+(Invoice date: 2024-08-22) Tj
+0 -28 Td
+(Bill to: Example Company \(fictional\)) Tj
+0 -28 Td
+(Currency: INR) Tj
+0 -28 Td
+(Item: Laptop 14-inch business configuration) Tj
+0 -28 Td
+(Manufacturer and model: Aarav Computing AC14-8-256) Tj
+0 -28 Td
+(Specifications: 14-inch, Core i5 class, 8 GB RAM, 256 GB SSD) Tj
+0 -28 Td
+(Operating system: Windows 11 Pro) Tj
+0 -28 Td
+(Quantity: 1) Tj
+0 -28 Td
+(Unit price before tax: INR 72,500.00) Tj
+0 -28 Td
+(Subtotal before tax: INR 72,500.00) Tj
+0 -28 Td
+(GST rate: 18 percent) Tj
+0 -28 Td
+(GST amount: INR 13,050.00) Tj
+0 -28 Td
+(Shipping: INR 500.00) Tj
+0 -28 Td
+(Invoice total: INR 86,050.00) Tj
+0 -28 Td
+(Warranty: 36 months) Tj
+0 -28 Td
+(For software development demonstration only; not a real invoice.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001207 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1277
+%%EOF
